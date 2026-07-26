@@ -1,0 +1,7 @@
+{
+  "name": "Mahedi Life OS",
+  "description": "আমার জীবন, আমার সময়, আমার দায়িত্ব — সব এক জায়গায়।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
